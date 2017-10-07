@@ -1,2 +1,7 @@
 # hello-world
-test hello-world application
+
+Hello!
+
+It's just a test application! I'm learning to use Git! 
+
+Ok.
